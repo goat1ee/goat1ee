@@ -1,7 +1,6 @@
 # 李伟龙 (Weilong Li)
 
 ## 👨‍💻 关于我 | About Me
-
 大家好！我是李伟龙，一名专注于AI、大模型和数据分析的研究生。目前在大连外国语大学攻读图书情报专业硕士学位。我热衷于探索人工智能技术应用和数据挖掘领域的创新。
 
 Hi there! I'm Weilong Li, a graduate student focusing on AI, large language models, and data analysis. Currently pursuing a Master's degree in Library and Information Science at Dalian University of Foreign Languages. I'm passionate about exploring innovative applications of AI technologies and data mining.
@@ -19,12 +18,11 @@ Hi there! I'm Weilong Li, a graduate student focusing on AI, large language mode
 ## 💻 技术项目 | Technical Projects
 ### 项目一：[nlpcc2024sharedtask6]
 - **描述**：[文献综述自动化生成]
-- **技术栈**：Python,LLM
+- **技术栈**：Python, LLM
 
 ### 项目二：[nlpcc2025sharedtask2]
 - **描述**：[中小学作文评测]
-- **技术栈**：Python,LLM,NLP
-
+- **技术栈**：Python, LLM, NLP
 
 ## 🛠️ 技术栈 | Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -33,12 +31,26 @@ Hi there! I'm Weilong Li, a graduate student focusing on AI, large language mode
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-4285F4?style=flat-square&logo=google-analytics&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-8CC84B?style=flat-square&logo=nlp&logoColor=white)
+![LLM](https://img.shields.io/badge/-LLM-FF4500?style=flat-square&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 ## 📊 GitHub统计 | GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=goat1ee&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goat1ee&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=goat1ee&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=goat1ee&color=blueviolet)
+
 ## 📫 联系方式 | Contact
 - 📧 邮箱：18704701007@163.com
+
 ---
 
 📊 *我正在寻找AI和数据分析相关的合作机会，如果您有兴趣，欢迎联系我！*
